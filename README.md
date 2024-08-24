@@ -37,7 +37,7 @@ To get started with PicVault locally, follow these steps:
    Create a .env file in the root directory and add your environment variables. For example:
    ```plaintext
    MONGO_URI=your_mongodb_connection_string
-   PORT=3000
+   PORT=8080
    ```
 
 4. **Start the Application**
