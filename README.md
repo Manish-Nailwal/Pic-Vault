@@ -28,27 +28,26 @@ To get started with PicVault locally, follow these steps:
 
 2. **Install Dependencies**
 
-  Make sure you have Node.js installed. Run the following command to install the necessary dependencies:
+   Make sure you have Node.js installed. Run the following command to install the necessary       dependencies:
 
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 3. **Set Up Environment Variables**
-
-Create a .env file in the root directory and add your environment variables. For example:
-```plaintext
-MONGO_URI=your_mongodb_connection_string
-PORT=3000
-```
+   Create a .env file in the root directory and add your environment variables. For example:
+   ```plaintext
+   MONGO_URI=your_mongodb_connection_string
+   PORT=3000
+   ```
 
 4. **Start the Application**
 
-Run the following command to start the server:
+   Run the following command to start the server:
 
-```bash
-npm start
-```
-The application will be available at http://localhost:3000.
+   ```bash
+   npm start
+   ```
+   The application will be available at http://localhost:8080.
 
 
 # Contributing
