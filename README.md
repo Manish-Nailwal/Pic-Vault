@@ -50,18 +50,18 @@ To get started with PicVault locally, follow these steps:
    The application will be available at http://localhost:8080.
 
 
-# Contributing
+## Contributing
 Contributions are welcome! If you have suggestions, improvements, or want to report issues, please open an issue or submit a pull request.
 
-# Feedback
+## Feedback
 I welcome any feedback on the project. Feel free to connect with me to discuss the technology, development process, or potential enhancements.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Connect
+## Connect
 [GitHub Profile](https://github.com/Manish-Nailwal)
 [LinkedIn](https://www.linkedin.com/in/manish-nailwal/)
 
-# Hashtags
+## Hashtags
 #PicVault #FullStackDevelopment #WebDevelopment #PhotoGallery #NodeJS #MongoDB #ExpressJS #HTML5 #CSS3 #JavaScript #TechnologyInnovation
