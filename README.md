@@ -59,8 +59,9 @@ I welcome any feedback on the project. Feel free to connect with me to discuss t
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Connect
+# Connect
 [GitHub Profile](https://github.com/Manish-Nailwal)
 [LinkedIn](https://www.linkedin.com/in/manish-nailwal/)
-Hashtags
+
+# Hashtags
 #PicVault #FullStackDevelopment #WebDevelopment #PhotoGallery #NodeJS #MongoDB #ExpressJS #HTML5 #CSS3 #JavaScript #TechnologyInnovation
