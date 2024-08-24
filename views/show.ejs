@@ -1,0 +1,21 @@
+
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<% layout('navbar') -%>
+<body>
+    <div class="cards">
+        <% for(photo of data){ %>
+            <a href="/expand/<%=photo._id %>" class="view">
+                <div class="card" style="width: 25rem;">
+                    <img src="<%=photo.image %>" class="card-img-top">
+                    <div class="card-body">
+                        <p class="card-text"><b><%=photo.title%></b></p>
+                        <p class="card-text"><%= photo.tags%></p>
+                      </div>
+                </div>
+            </a>
+        <% } %>
+    </div>
+    <br><br><br><br>
+</body> 

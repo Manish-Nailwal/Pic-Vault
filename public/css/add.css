@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    width: 0;
+}
+.form-control{
+    border: solid black 1px;
+    width: 100%;
+}
+.form-label{
+    width: 100%;
+}
